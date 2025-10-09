@@ -12,4 +12,4 @@ bundle exec jekyll serve --baseurl '/data_visualization'
 
 #### Hosted Website
 
-Spring 2025: https://yunfan1202.github.io/data_visualization/fall2025/
+Fall 2025: https://yunfan1202.github.io/data_visualization/fall2025/
