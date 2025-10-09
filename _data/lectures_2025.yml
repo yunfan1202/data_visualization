@@ -80,22 +80,29 @@
 
 - date: 10/24
   title: >
-    Week 5 <b>大作业【项目作业】进展汇报、重难点针对性答疑</b>
+    Week 5 <b>大作业进展汇报</b>
   slides:
   topics:
+    - 重难点针对性答疑
   readings:
 
 - date: 10/28
   title: >
-    Week 6 <b>时空数据、文本数据可视化+可视化交互</b>
+    Week 6 <b>其他可视化</b>
   slides:
   topics:
+    - 时空数据可视化
+    - 文本数据可视化
+    - 可视化交互
   readings:
 
 - date: 10/31
   title: >
-    Week 6 <b>大作业【项目作业】展示汇报：优化后的可视化方案、技术实现细节、网页效果演示</b>
+    Week 6 <b>大作业展示汇报</b>
   slides:
   topics:
+    - 优化后的可视化方案
+    - 技术实现细节
+    - 网页效果演示
   readings:
 

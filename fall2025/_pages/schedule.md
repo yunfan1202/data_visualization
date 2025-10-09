@@ -4,7 +4,7 @@ permalink: /fall2025/schedule/
 title: Schedule
 ---
 
-** Exact topics and schedule subject to change, based on student interests and course discussions. **
+** 确切的内容主题和日程安排可能会根据学生的兴趣和课程讨论进行动态调整 **
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
