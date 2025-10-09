@@ -1,16 +1,23 @@
-- date: 2/4
+- date: 09/23
   title: >
-    Week 1 <b>可视化概述</b> <a href="lec1 - introduction.pdf">[slides]</a>
+    Week 1 <b>课程简介+可视化概述</b> <a href="1-可视化概述.pdf">[slides]</a>
   slides:
   topics:
-    - Course syllabus and requirements <br/>
-    - Introduction to AI and AI research
+    - 课程内容+学习目标介绍 <br/>
+    - 什么是可视化？ <br/>
+    - 为什么要可视化？ <br/>
+    - 可视化的发展简史 <br/>
+    - 可视化的实现工具 <br/>
+    - 大作业主题说明
   readings:
-    - <a href="https://arxiv.org/abs/2209.03430">Foundations and Trends in Multimodal Machine Learning&#58; Principles, Challenges, and Open Questions</a> <br/>
-    - <a href="https://arxiv.org/abs/1705.09406">Multimodal Machine Learning&#58; A Survey and Taxonomy</a> <br/>
-    - <a href="https://arxiv.org/abs/1206.5538">Representation Learning&#58; A Review and New Perspectives</a> <br/>
-
-- date: 2/6
+    - <a href="https://pinwall.cn/workFolder/1430">往期作业</a> <br/>
+    - <a href="https://chinavis.org/2025/zh/challenge">ChinaVis 2025可视化竞赛</a> <br/>
+    - <a href="https://www.youtube.com/watch?v=hVimVzgtD6w">The best stats you've ever seen | Hans Rosling</a> <br/>
+    - <a href="https://www.youtube.com/watch?v=4v4XxlfVk3o">埃朗·考博林：巧妙地可视化人类活动</a> <br/>
+    - <a href="https://www.youtube.com/watch?v=iiEzf3J4iFk">A Double Dutch | Brain Games</a> <br/>
+    - <a href="https://zhuanlan.zhihu.com/p/320623960">可视化发展简史</a> <br/>
+    - <a href="https://github.com/iGaoWei/BigDataView">数据可视化模板</a> <br/>
+- date: 09/26
   title: >
     Week 1 <b>视觉感知与视觉通道</b> <a href="lec1.2 - AI research.pdf">[slides]</a>
   slides:
@@ -19,7 +26,7 @@
     - Generating ideas, reading and writing papers, AI experimentation
   readings:
 
-- date: 2/11
+- date: 09/28
   title: >
     Week 2 <b>可视化流程框架与图表设计</b> <a href="lec2 - data.pdf">[slides]</a>
   slides:
@@ -33,9 +40,9 @@
     - <a href="https://arxiv.org/abs/2209.03430">Foundations and Trends in Multimodal Machine Learning&#58; Principles, Challenges, and Open Questions</a> <br/>
     - <a href="https://arxiv.org/abs/2104.13478">Geometric Deep Learning&#58; Grids, Groups, Graphs, Geodesics, and Gauges</a> <br/>
 
-- date: 2/14
+- date: 10/10
   title: >
-    Week 2 <b>Python数据获取与处理</b> <a href="Debugging Tips.pdf">[slides]</a>
+    Week 3 <b>Python数据获取与处理</b> <a href="Debugging Tips.pdf">[slides]</a>
   slides:
   topics:
     - Getting started with PyTorch <br/>
@@ -46,23 +53,23 @@
   - <a href="https://colab.research.google.com/drive/1EDsjYRrAiujUew0GRJ_hyVoNMsSDnlnx?usp=sharing">Fine-tuning a Code LLM on Custom Code on a single GPU</a> <br/>
   - <a href="https://colab.research.google.com/drive/1SoTu6gvYcLNDqPwNPTWmsSYF-l-UfHPx?usp=sharing">MAS.S60 Pytorch Introduction</a> <br/>
 
-- date: 2/18
+- date: 10/14
   title: >
-    Week 3 <b>No class, shifted President's day</b>
+    Week 4 <b>大作业【项目作业】选题/进展汇报（细致规划好后续节点、方案） </b>
   slides:
   topics:
   readings:
 
-- date: 2/20
+- date: 10/17
   title: >
-    Week 3 <b>Project proposal presentations</b>
+    Week 4 <b>pyecharts 教学（上）</b>
   slides:
   topics:
   readings:
 
-- date: 2/25
+- date: 10/21
   title: >
-    Week 4 <b>pyecharts入门</b> <a href="lec3 - models.pdf">[slides]</a>
+    Week 5 <b>pyechart 教学（下）</b> <a href="lec3 - models.pdf">[slides]</a>
   slides:
   topics:
     - Structure and invariances <br/>
@@ -77,9 +84,9 @@
     - <a href="https://arxiv.org/abs/1703.06114">Deep Sets</a> <br/>
     - <a href="https://arxiv.org/abs/1710.10903">Graph Attention Networks</a> <br/>
 
-- date: 2/25
+- date: 10/24
   title: >
-    Week 4 <b>pyecharts进阶</b>
+    Week 5 <b>大作业【项目作业】进展汇报、重难点针对性答疑</b>
   slides:
   topics:
   readings:
@@ -89,9 +96,9 @@
     - <a href="https://arxiv.org/pdf/2306.11644">Textbooks are all you Need</a> <br/>
     - <a href="https://arxiv.org/pdf/2207.07528">A Conceptual Pipeline for Machine Learning</a> <br/>
 
-- date: 3/4
+- date: 10/28
   title: >
-    Week 5 <b>时空数据可视化</b> <a href="lec4 - multimodal.pdf">[slides]</a>
+    Week 6 <b>时空数据、文本数据可视化+可视化交互</b> <a href="lec4 - multimodal.pdf">[slides]</a>
   slides:
   topics:
     - Heterogeneity, connections, and interactions <br/>
@@ -103,9 +110,9 @@
     - <a href="https://link.springer.com/article/10.1007/s13735-019-00187-6">Characterization and classification of semantic image-text relations</a> <br/>
     - <a href="https://arxiv.org/abs/2210.01936">When and why vision-language models behave like bags-of-words, and what to do about it?</a> <br/>
 
-- date: 3/6
+- date: 10/31
   title: >
-    Week 5 <b>文本数据可视化</b>
+    Week 6 <b>大作业【项目作业】展示汇报：优化后的可视化方案、技术实现细节、网页效果演示</b>
   slides:
   topics:
   readings:
@@ -117,16 +124,3 @@
   - <a href="https://arxiv.org/abs/2201.03545">A ConvNet for the 2020s</a> <br/>
   - <a href="https://arxiv.org/abs/1706.02216">Inductive Representation Learning on Large Graphs</a> <br/>
   - '<a href="https://arxiv.org/abs/1811.01900">Janossy Pooling: Learning Deep Permutation-Invariant Functions for Variable-Size Inputs</a> <br/>'
-
-- date: 3/11
-  title: >
-    Week 6 <b>可视化交互技术</b> <a href="lec5 - fusion.pdf">[slides]</a>
-  slides:
-  topics:
-    - Cross-modal interactions <br/>
-    - Multimodal fusion
-  readings:
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/319382.319398">Ten Myths of Multimodal Interaction</a> <br/>
-    - <a href="https://www.sciencedirect.com/science/article/pii/S0167865513002584">Multimodal interaction&#58; A review</a> <br/>
-    - <a href="https://arxiv.org/abs/2302.12247">Quantifying & Modeling Multimodal Interactions&#58; An Information Decomposition Framework</a> <br/>
-    - <a href="https://aclanthology.org/2020.emnlp-main.62/">Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!</a> <br/>
