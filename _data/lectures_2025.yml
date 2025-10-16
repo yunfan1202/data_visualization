@@ -49,6 +49,7 @@
     - 数据获取，数据从哪里来？<br/>
     - 数据处理，如何清洗数据？<br/>
     - JupyterLab
+    - 课堂实践：代码跟跑+自适应练习
   readings:
   - <a href="https://github.com/NanmiCoder/MediaCrawler">MediaCrawler</a> <br/>
   - <a href="https://github.com/xishandong/crawlProject">crawlProject</a> <br/>
@@ -65,18 +66,33 @@
 
 - date: 10/17
   title: >
-    Week 4 <b>pyecharts 教学（上）</b>
+    Week 4 <b>pyecharts 教学（上）</b> <a href="5-pyecharts入门.pdf">[slides]</a>
   slides:
   topics:
+    - Pyecharts上手
+    - 基本图表实现
+    - 多图表组合
+    - 真实数据图表
+    - 课堂实践：代码跟跑+自适应练习
   readings:
-
+    - <a href="https://pyecharts.org/#/zh-cn/quickstart">pyecharts快速开始</a> <br/>
+    - <a href="https://pyecharts.org/#/zh-cn/intro">pyecharts文档</a> <br/>
+    - <a href="https://pyecharts.org/#/zh-cn/themes">pyecharts定制主题</a> <br/>
+    - <a href="https://echarts.apache.org/zh/theme-builder.html">Echarts主题构建工具</a> <br/>
 - date: 10/21
   title: >
-    Week 5 <b>pyechart 教学（下）</b>
+    Week 5 <b>pyechart 教学（下）</b> <a href="6-pyecharts进阶.pdf">[slides]</a>
   slides:
   topics:
+    - visualMap视觉映射
+    - Dataset数据集
+    - 视图与交互
+    - 隐喻图表
+    - 嵌入网页
+    - 课堂实践：代码跟跑+自适应练习
 
   readings:
+    - <a href="https://www.heywhale.com/mw/project/5eb7958f366f4d002d783d4a">pyecharts教程</a> <br/>
 
 - date: 10/24
   title: >
