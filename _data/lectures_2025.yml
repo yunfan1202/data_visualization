@@ -99,8 +99,10 @@
     Week 5 <b>可视化相关智能分析技术</b> <a href="7-文本数据可视化.pdf">[slides]</a>
   slides:
   topics:
-    - 文本数据可视化的基本任务（内容、关系）和流程
-    - 课堂实践：文本智能分析技术（分词等预处理、主题聚类、情感分类）
+    - 文本数据可视化简介
+    - 文本内容的可视化
+    - 文本关系的可视化
+    - 课堂实践：文本智能分析（分词、主题聚类、情感分析等）
   readings:
     - <a href="https://www.zhihu.com/question/19578687/answers/updated">中文分词</a> <br/>
     - <a href="https://wordart.com/">WORDART</a> <br/>
