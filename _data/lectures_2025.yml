@@ -96,7 +96,7 @@
 
 - date: 10/24
   title: >
-    Week 5 <b>可视化相关智能分析技术</b>
+    Week 5 <b>可视化相关智能分析技术</b> <a href="7-文本数据可视化.pdf">[slides]</a>
   slides:
   topics:
     - 文本数据可视化的基本任务（内容、关系）和流程
