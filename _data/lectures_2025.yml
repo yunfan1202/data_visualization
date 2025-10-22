@@ -96,13 +96,19 @@
 
 - date: 10/24
   title: >
-    Week 5 <b>可视化分析相关智能技术</b>
+    Week 5 <b>可视化相关智能分析技术</b>
   slides:
   topics:
-    - 文本数据可视化
-    - 重难点针对性答疑
+    - 文本数据可视化的基本任务（内容、关系）和流程
+    - 课堂实践：文本智能分析技术（分词等预处理、主题聚类、情感分类）
   readings:
-
+    - <a href="https://www.zhihu.com/question/19578687/answers/updated">中文分词</a> <br/>
+    - <a href="https://wordart.com/">WORDART</a> <br/>
+    - <a href="https://textvis.lnu.se/">Text Visualization Browser</a> <br/>
+    - <a href="https://maartengr.github.io/BERTopic/index.html">BERTopic</a> <br/>
+    - <a href="https://huggingface.co/tabularisai/multilingual-sentiment-analysis">multilingual-sentiment-analysis</a> <br/>
+    - <a href="https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2">paraphrase-multilingual-MiniLM-L12-v2</a> <br/>
+    - <a href="https://hf-mirror.com/">huggingface镜像站</a> <br/>
 - date: 10/28
   title: >
     Week 6 <b>其他可视化</b>
