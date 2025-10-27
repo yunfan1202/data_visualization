@@ -113,11 +113,24 @@
     - <a href="https://hf-mirror.com/">huggingface镜像站</a> <br/>
 - date: 10/28
   title: >
-    Week 6 <b>其他可视化</b>
+    Week 6 <b>时空数据可视化</b> <a href="8-时空数据可视化.pdf">[slides]</a>
   slides:
   topics:
-    - 时空数据可视化
-    - 可视化交互
+    - 空间场数据可视化概述
+    - 地理型数据的可视化
+    - 时变型数据的可视化
+
+  readings:
+
+  - date: 10/28
+  title: >
+    Week 6 <b>可视化交互技术</b> <a href="9-可视化交互技术.pdf">[slides]</a>
+  slides:
+  topics:
+    - 可视化交互简述
+    - 可视化交互空间与模型
+    - 可视化交互设备
+    - 可视化的价值评估
   readings:
 
 - date: 10/31
